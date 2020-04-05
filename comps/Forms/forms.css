@@ -1,0 +1,16 @@
+.forms_box {
+    margin: 20px;
+    /* border: 1px solid #000; */
+    padding: 20px;
+    width: 20%;
+}
+
+.forms_box_inner {
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.forms_box_inner input {
+    height: 3vh;
+}

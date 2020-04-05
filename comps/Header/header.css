@@ -1,0 +1,11 @@
+.header_box {
+    text-align: center;
+    background-color: pink;
+    padding: 5px;
+    margin: 5px;
+}
+
+.header_box::selection {
+    background: none;
+    color: none;
+}
