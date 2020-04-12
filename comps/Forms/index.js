@@ -8,7 +8,7 @@ className = "forms_box">
         {text}
         <input type="text" />
     </div>
-</div>
+</div>;
 
 Form.defaultProps = {
     text: "Name",

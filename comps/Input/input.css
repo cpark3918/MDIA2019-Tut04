@@ -1,0 +1,8 @@
+.input_contain input {
+    padding: 10px;
+    /* display: flex;
+    height: 100%; */
+    border-radius: 5px;
+    border: 1px solid #AAA;
+    margin-right: 5px;
+}
