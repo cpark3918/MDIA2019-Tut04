@@ -1,0 +1,14 @@
+#mainapp {
+    opacity: 1;
+    position: relative;
+    right: 0;
+    transition: opacity 1s, right 1s;
+}
+
+#mainapp button {
+    font-size: 14pt;
+}
+
+body, html {
+    overflow-x: hidden;
+}
